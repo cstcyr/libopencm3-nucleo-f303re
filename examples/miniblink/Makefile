@@ -21,4 +21,4 @@ BINARY = miniblink
 
 LDSCRIPT = ../stm32f303re.ld
 
-include ../../Makefile.include
+include ../Makefile.include
